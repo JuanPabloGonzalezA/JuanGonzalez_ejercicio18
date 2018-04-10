@@ -9,7 +9,7 @@ int main(){
 	double h=0.1;
 	int N=100;
 	double zant=0;
-	double yant=0;
+	double yant=1;
 	
 	int i = 0;
 	for(i=0;i<N;i++){
